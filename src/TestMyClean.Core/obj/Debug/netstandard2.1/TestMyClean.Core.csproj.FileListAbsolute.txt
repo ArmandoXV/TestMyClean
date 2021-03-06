@@ -1,0 +1,12 @@
+C:\Users\Mhammd\source\repos\TestMyClean\TestMyClean\src\TestMyClean.Core\bin\Debug\netstandard2.1\TestMyClean.Core.deps.json
+C:\Users\Mhammd\source\repos\TestMyClean\TestMyClean\src\TestMyClean.Core\bin\Debug\netstandard2.1\TestMyClean.Core.dll
+C:\Users\Mhammd\source\repos\TestMyClean\TestMyClean\src\TestMyClean.Core\bin\Debug\netstandard2.1\TestMyClean.Core.pdb
+C:\Users\Mhammd\source\repos\TestMyClean\TestMyClean\src\TestMyClean.Core\bin\Debug\netstandard2.1\TestMyClean.SharedKernel.dll
+C:\Users\Mhammd\source\repos\TestMyClean\TestMyClean\src\TestMyClean.Core\bin\Debug\netstandard2.1\TestMyClean.SharedKernel.pdb
+C:\Users\Mhammd\source\repos\TestMyClean\TestMyClean\src\TestMyClean.Core\obj\Debug\netstandard2.1\TestMyClean.Core.csprojAssemblyReference.cache
+C:\Users\Mhammd\source\repos\TestMyClean\TestMyClean\src\TestMyClean.Core\obj\Debug\netstandard2.1\TestMyClean.Core.AssemblyInfoInputs.cache
+C:\Users\Mhammd\source\repos\TestMyClean\TestMyClean\src\TestMyClean.Core\obj\Debug\netstandard2.1\TestMyClean.Core.AssemblyInfo.cs
+C:\Users\Mhammd\source\repos\TestMyClean\TestMyClean\src\TestMyClean.Core\obj\Debug\netstandard2.1\TestMyClean.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mhammd\source\repos\TestMyClean\TestMyClean\src\TestMyClean.Core\obj\Debug\netstandard2.1\TestMyClean.Core.csproj.CopyComplete
+C:\Users\Mhammd\source\repos\TestMyClean\TestMyClean\src\TestMyClean.Core\obj\Debug\netstandard2.1\TestMyClean.Core.dll
+C:\Users\Mhammd\source\repos\TestMyClean\TestMyClean\src\TestMyClean.Core\obj\Debug\netstandard2.1\TestMyClean.Core.pdb

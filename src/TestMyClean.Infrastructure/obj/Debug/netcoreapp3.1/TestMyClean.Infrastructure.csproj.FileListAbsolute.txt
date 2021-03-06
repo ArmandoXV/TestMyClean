@@ -1,0 +1,17 @@
+C:\Users\Mhammd\source\repos\TestMyClean\TestMyClean\src\TestMyClean.Infrastructure\obj\Debug\netcoreapp3.1\TestMyClean.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Mhammd\source\repos\TestMyClean\TestMyClean\src\TestMyClean.Infrastructure\obj\Debug\netcoreapp3.1\TestMyClean.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mhammd\source\repos\TestMyClean\TestMyClean\src\TestMyClean.Infrastructure\obj\Debug\netcoreapp3.1\TestMyClean.Infrastructure.AssemblyInfo.cs
+C:\Users\Mhammd\source\repos\TestMyClean\TestMyClean\src\TestMyClean.Infrastructure\obj\Debug\netcoreapp3.1\TestMyClean.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mhammd\source\repos\TestMyClean\TestMyClean\src\TestMyClean.Infrastructure\bin\Debug\netcoreapp3.1\TestMyClean.Infrastructure.deps.json
+C:\Users\Mhammd\source\repos\TestMyClean\TestMyClean\src\TestMyClean.Infrastructure\bin\Debug\netcoreapp3.1\TestMyClean.Infrastructure.runtimeconfig.json
+C:\Users\Mhammd\source\repos\TestMyClean\TestMyClean\src\TestMyClean.Infrastructure\bin\Debug\netcoreapp3.1\TestMyClean.Infrastructure.runtimeconfig.dev.json
+C:\Users\Mhammd\source\repos\TestMyClean\TestMyClean\src\TestMyClean.Infrastructure\bin\Debug\netcoreapp3.1\TestMyClean.Infrastructure.dll
+C:\Users\Mhammd\source\repos\TestMyClean\TestMyClean\src\TestMyClean.Infrastructure\bin\Debug\netcoreapp3.1\TestMyClean.Infrastructure.pdb
+C:\Users\Mhammd\source\repos\TestMyClean\TestMyClean\src\TestMyClean.Infrastructure\bin\Debug\netcoreapp3.1\TestMyClean.Core.dll
+C:\Users\Mhammd\source\repos\TestMyClean\TestMyClean\src\TestMyClean.Infrastructure\bin\Debug\netcoreapp3.1\TestMyClean.SharedKernel.dll
+C:\Users\Mhammd\source\repos\TestMyClean\TestMyClean\src\TestMyClean.Infrastructure\bin\Debug\netcoreapp3.1\TestMyClean.Core.pdb
+C:\Users\Mhammd\source\repos\TestMyClean\TestMyClean\src\TestMyClean.Infrastructure\bin\Debug\netcoreapp3.1\TestMyClean.SharedKernel.pdb
+C:\Users\Mhammd\source\repos\TestMyClean\TestMyClean\src\TestMyClean.Infrastructure\obj\Debug\netcoreapp3.1\TestMyClean.Infrastructure.csproj.CopyComplete
+C:\Users\Mhammd\source\repos\TestMyClean\TestMyClean\src\TestMyClean.Infrastructure\obj\Debug\netcoreapp3.1\TestMyClean.Infrastructure.dll
+C:\Users\Mhammd\source\repos\TestMyClean\TestMyClean\src\TestMyClean.Infrastructure\obj\Debug\netcoreapp3.1\TestMyClean.Infrastructure.pdb
+C:\Users\Mhammd\source\repos\TestMyClean\TestMyClean\src\TestMyClean.Infrastructure\obj\Debug\netcoreapp3.1\TestMyClean.Infrastructure.genruntimeconfig.cache
